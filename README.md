@@ -1,20 +1,13 @@
-### Hello!
+### Hi I am Phil!
 
 My name is Phil Huddy and I am a student at Drexel University pursuing a BS in Computer Engineering and an MS in Machine Learning Engineering.
 
+Currently I am working on a django website for Drexel Theta Tau, a professional engineering fraternity that I am in. I am also working on a Discord Bot with a friend, although at the moment we are just playing around with it and it does nothing.
 
+In the past, I developed a survey and test-takinf program in Java as a homework assignment for a class on object oriented programming. I also worked with a team to develop a browser game using the Phaser framework that was a Minecraft-themed platformer for a class on web development.
 
-<!--
-**pdhuddy/pdhuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you would like to see the code for any of these projects and don't see a repo for it, shoot me an email and I will give you access to the repo or point you to where you can find it!
 
-Here are some ideas to get you started:
+In addition to coding, I love playing basketball and football, as well as watching them both, going snowboarding, playing video games, and spending time with friends and family.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me by emailing philip.huddy@drexel.edu
