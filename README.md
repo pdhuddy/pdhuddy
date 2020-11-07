@@ -4,7 +4,7 @@ My name is Phil Huddy and I am a student at Drexel University pursuing a BS in C
 
 Currently I am working on a django website for Drexel Theta Tau, a professional engineering fraternity that I am in. I am also working on a Discord Bot with a friend, although at the moment we are just playing around with it and it does nothing.
 
-In the past, I developed a survey and test-takinf program in Java as a homework assignment for a class on object oriented programming. I also worked with a team to develop a browser game using the Phaser framework that was a Minecraft-themed platformer for a class on web development.
+In the past, I developed a survey and test-taking program in Java as a homework assignment for a class on object oriented programming. I also worked with a team to develop a browser game using the Phaser framework that was a Minecraft-themed platformer for a class on web development.
 
 If you would like to see the code for any of these projects and don't see a repo for it, shoot me an email and I will give you access to the repo or point you to where you can find it!
 
