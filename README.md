@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+My name is Phil Huddy and I am a student at Drexel University pursuing a BS in Computer Engineering and an MS in Machine Learning Engineering.
+
+
 
 <!--
 **pdhuddy/pdhuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
